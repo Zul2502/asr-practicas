@@ -1,0 +1,3 @@
+comunidadASR,161,192.168.100.5
+comunidadASR,161,192.168.100.1
+comunidadASR,161,192.168.100.8
